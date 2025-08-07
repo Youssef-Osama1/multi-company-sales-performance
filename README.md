@@ -1,4 +1,4 @@
-# delivery-companies-sales-performance
+# Delivery-companies-sales-performance
 
 This project presents a comprehensive sales analysis for 13 delivery-focused companies using Power BI.
 
