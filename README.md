@@ -1,6 +1,6 @@
-# Multi-Company Sales Performance Dashboard
+# delivery-companies-sales-performance
 
-This project presents a comprehensive sales analysis for 13 delivery and retail companies using Power BI. The dashboard covers company-level, product-level, and employee-level performance to support business decisions.
+This project presents a comprehensive sales analysis for 13 delivery-focused companies using Power BI.
 
 ## 📊 Key Insights
 
